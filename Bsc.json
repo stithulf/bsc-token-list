@@ -34,4 +34,12 @@
         "decimals": "18",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
       },
+      {
+        "name": "Stithulf ERC",
+        "symbol": "SULFERC",
+        "address": "0x9Df9De5Ed89ADBBd9fa2C14691903A0DE9048A87",
+        "chainId": 56,
+        "decimals": "4",
+        "logoURI": "https://bscscan.com/token/images/stithulf_32.png"
+      },        
 ]
